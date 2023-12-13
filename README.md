@@ -1,2 +1,2 @@
 # Animated-Login-Page
-c
+Created an Animated Responsive Login Page with just HTML and CSS
